@@ -2,10 +2,10 @@ package exercicio3;
 
 public class Employee {
 
-    String name;
-    double grossSalary;
-    double tax;
-    double salarioLiquido;
+    private String name;
+    private double grossSalary;
+    private double tax;
+    private double salarioLiquido;
     
 
     public String getName(){

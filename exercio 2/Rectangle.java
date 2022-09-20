@@ -1,7 +1,9 @@
 
 public class Rectangle {
-    double width;
-    double height; 
+    private double width;
+    private double height;
+    
+
 
     public  double getWidth(){
        return width;
