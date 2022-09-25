@@ -13,12 +13,6 @@ public class PersonIndividual extends Person{
 
    
 
-    /* (non-Javadoc)
-     * @see exercicio6.Person#toString()
-     */
-    /* (non-Javadoc)
-     * @see exercicio6.Person#toString()
-     */
     public String toString() {
     
       
