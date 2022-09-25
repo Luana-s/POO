@@ -22,7 +22,3 @@ public class Exercicio1{
     }
 }
 
-
-//public class precoDollar (){
-
-//
